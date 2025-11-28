@@ -609,7 +609,7 @@ The clicks will be generated via a generator running in a workbook.
 
 ![alt text](assets/image_lab02_step21.png)
 
-23. **Enter** the table name `RawClickstreamData`, **click** on the tick mark, **click** `Next`.
+23. Create a **new table** and **enter** the table name `RawClickstreamData`, **click** on the tick mark, **click** `Next`.
 
 ![alt text](assets/image_lab02_step22.png)
 
